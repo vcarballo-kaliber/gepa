@@ -3,3 +3,4 @@ peft
 datasets
 trl
 torch
+markdown-pdf
